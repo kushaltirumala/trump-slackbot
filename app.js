@@ -3,7 +3,7 @@
  *  Licensed under the MIT License.
  */
 
-/* Change this to your Slack bot's OAuth token, 
+/* Change this to your Slack bot's OAuth token,
 * found in the Integrations tab */
 var SLACK_TOKEN = require('./config').slackToken;
 
