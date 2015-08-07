@@ -16,6 +16,27 @@ module.exports = [
 		]
 	},
 	{
+		"keywords": ["plans", "future", "campaign", "going to do"],
+		"messages": [
+			"I try to learn from the past, but I plan for the future by focusing exclusively on the present." 
+			+ "That's where the fun is.", 
+			"You have to think anyway, so why not think big?",
+			"In the end, you're measured not by how much you undertake but by what you finally accomplish."
+		]
+	},
+	{
+		"keywords": ["debate", "republican debate", "gop", "presidential debate"],
+		"messages": [
+			"I don’t mind having a big, beautiful door on that wall — so people can come into this country [legally]",
+			"I don’t frankly have time for total political correctness. "
+			+ "And to be honest you, this country doesn't have time either. "
+			+ "This country is in big trouble. We don't win anymore. We lose to China. "
+			+ "We lose to Mexico, both in trade and at the border. We lose to everybody.",
+			"If it weren't for me you wouldn't even be talking about illegal immigration. This was "
+			+"not a subject on anybody's mind at my announcement, except the reporters are a very dishonest lot."
+		]
+	},
+	{
 		"keywords": ["mexico", "mexican", "latino"],
 		"messages": [
 			"When Mexico sends its people, they’re not sending their best. " 
