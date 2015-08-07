@@ -56,6 +56,7 @@ module.exports = [
 			+ "is that I'm very rich. So if I need $600 million, I can put $600 " 
 			+ "million myself. That's a huge advantage. I must tell you, that's a " 
 			+ "huge advantage over the other candidates."
+			+ "My I.Q. is the same as my third wife when we married, 35."
 		]
 	},
 	{
