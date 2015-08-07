@@ -6,6 +6,7 @@ var https = require('https');
 var  _ws = require('ws');
 var counter = 1;
 var ws;
+var num = Math.floor((Math.random() * 100000000) + 1);
 
 https.get("https://slack.com/api/rtm.start?token=" + SLACK_TOKEN, function(res) {
 	console.log("Connecting to Slack API...");
@@ -70,6 +71,14 @@ var r = [
 		]
 	},
 	{
+		"keywords": ["money", "cash", "success"],
+		"messages": [
+			"I have $",
+			+ num + " in my checking account right now." 
+			
+		]
+	},
+	{
 		"keywords": ["china", "asia", "japan", "korea"],
 		"messages": [
 			"When did we beat Japan at anything? They send their cars over " 
@@ -90,4 +99,3 @@ function getResponse(message) {
 		}
 	}
 }
-
