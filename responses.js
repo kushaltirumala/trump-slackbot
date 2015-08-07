@@ -100,7 +100,7 @@ module.exports = [
         ]
     },
     {
-        "keywords": ["plans", "future", "campaign", "going to do"],
+        "keywords": ["plans", "future", "campaign", "going", "to do"],
         "messages": [
             "I try to learn from the past, but I plan for the future by focusing exclusively on the present." 
             + "That's where the fun is.", 
@@ -119,13 +119,13 @@ module.exports = [
         ]
     },
     {
-        "keywords": ["oil prices low"]
+        "keywords": ["oil", "price"],
         "messages":[
             "We have nobody in Washington that sits back and said, you're not going to raise that fucking price."
         ]
     },
     {
-        "keywords":["muammar gadaffi"]
+        "keywords":["muammar", "gadaffi"],
         "messages":[
             "I dealt with Gaddafi. I rented him a piece of land. He paid me more for "
             +"one night than the land was worth for two years, and then I didn't let him use the land. "+
@@ -134,7 +134,7 @@ module.exports = [
         ]
     },
     {
-        "keywords": ["rosie o'donell"]
+        "keywords": ["rosie", "o'donell"],
         "measured":[
             "Rosie is crude, rude, obnoxious and dumb - other than that I like her very much!"
         ]
