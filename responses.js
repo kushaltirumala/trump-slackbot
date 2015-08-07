@@ -16,15 +16,6 @@ module.exports = [
 		]
 	},
 	{
-		"keywords": ["plans", "future", "campaign", "going to do"],
-		"messages": [
-			"I try to learn from the past, but I plan for the future by focusing exclusively on the present." 
-			+ "That's where the fun is.", 
-			"You have to think anyway, so why not think big?",
-			"In the end, you're measured not by how much you undertake but by what you finally accomplish."
-		]
-	},
-	{
 		"keywords": ["debate", "republican debate", "gop", "presidential debate"],
 		"messages": [
 			"I don’t mind having a big, beautiful door on that wall — so people can come into this country [legally]",
@@ -106,6 +97,15 @@ module.exports = [
 			+ "in this country. I'm fighting for the vets. I've done a lot for the vets.",
 			"He's not a war hero. He's a war hero because he was captured. I like people that " 
 			+ "weren't captured, OK, I hate to tell you."
+		]
+	},
+	{
+		"keywords": ["plans", "future", "campaign", "going to do"],
+		"messages": [
+			"I try to learn from the past, but I plan for the future by focusing exclusively on the present." 
+			+ "That's where the fun is.", 
+			"You have to think anyway, so why not think big?",
+			"In the end, you're measured not by how much you undertake but by what you finally accomplish."
 		]
 	}
 ];
