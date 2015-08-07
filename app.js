@@ -1,5 +1,5 @@
 /*
- *	Made by Ethan Lee (ethanlee16) and Kushal Tirumala (kushaltimurala)
+ *	Made by Ethan Lee (@ethanlee16) and Kushal Tirumala (@kushaltirumala)
  *  Licensed under the MIT License.
  */
 
