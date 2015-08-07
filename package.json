@@ -1,0 +1,23 @@
+{
+  "name": "trump-slackbot",
+  "version": "1.0.0",
+  "description": "Add Donald Trump to your Slack channels",
+  "contributors": [
+    {
+      "name": "Ethan Lee",
+      "email": "hello@ethanl.ee",
+      "url": "http://ethanl.ee"
+    },
+    {
+      "name": "Kushal Tirumala",
+      "email": "superkushal93@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ws": "*"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
