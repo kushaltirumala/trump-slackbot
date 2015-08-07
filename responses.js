@@ -175,12 +175,6 @@ module.exports = [
         ]
     },
     {
-        "keywords": ["free trade", "trade"],
-        "measured":[
-            "Free trade is terrible. Free trade can be wonderful if you have smart people. But we have stupid people.",
-        ]
-    },
-    {
         "keywords": ["twitter", "social media"],
         "measured":[
             "My Twitter account has over 3.5 million followers. Beat that!",
