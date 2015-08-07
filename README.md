@@ -4,7 +4,7 @@
 Slack team conversations getting a little dull? Spice it up by adding Donald Trump to your #general channel. This should be fun.
 
 ##Setup
-To use Donald Trump with your Slack, visit [your Slack's Integrations page](http://my.slack.com/services/new/bot) and add a new bot called donaldtrump. You can also add a profile picture, and we recommend [this one](http://www.liberationnews.org/wp-content/uploads/2015/07/donaldtrump61815.jpg). The important bit here is to grab the OAuth token for your bot and save this for later. 
+To use Donald Trump with your Slack, visit [your Slack's Integrations page](http://my.slack.com/services/new/bot) and add a new bot called donald_trump. You can also add a profile picture, and we recommend [this one](http://www.liberationnews.org/wp-content/uploads/2015/07/donaldtrump61815.jpg), but that doesn't really matter. The important bit here is to grab the OAuth token for your bot and save this for later. 
 
 Next, clone this project or [download it as a ZIP](https://github.com/kushaltirumala/trump-slackbot/archive/master.zip) and open up `app.js`. Change `SLACK_TOKEN` to the token of your bot (you can put this in a separate config.js file if you wish to contribute to this repo).
 

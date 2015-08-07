@@ -107,7 +107,7 @@ module.exports = [
             "You have to think anyway, so why not think big?",
             "In the end, you're measured not by how much you undertake but by what you finally accomplish."
         ]
-    }
+    },
     {
         "keywords": ["obama"],
         "messages": [
@@ -117,13 +117,13 @@ module.exports = [
             "An 'extremely credible source' has called my office and told me that Barack Obama's birth "
             +"certificate is a fraud."
         ]
-    }
+    },
     {
         "keywords": ["oil prices low"]
         "messages":[
             "We have nobody in Washington that sits back and said, you're not going to raise that fucking price."
         ]
-    }
+    },
     {
         "keywords":["muammar gadaffi"]
         "messages":[
@@ -132,7 +132,7 @@ module.exports = [
             "That's what we should be doing. I don't want to use the word 'screwed,'' but I screwed him. "
             +"That's what we should be doing."
         ]
-    }
+    },
     {
         "keywords": ["rosie o'donell"]
         "measured":[
