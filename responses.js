@@ -24,7 +24,7 @@ module.exports = [
             + "This country is in big trouble. We don't win anymore. We lose to China. "
             + "We lose to Mexico, both in trade and at the border. We lose to everybody.",
             "If it weren't for me you wouldn't even be talking about illegal immigration. This was "
-            +"not a subject on anybody's mind at my announcement, except the reporters are a very dishonest lot."
+            + "not a subject on anybody's mind at my announcement, except the reporters are a very dishonest lot."
         ]
     },
     {
@@ -101,7 +101,7 @@ module.exports = [
         ]
     },
     {
-        "keywords": ["plans", "future", "campaign", "going", "to do"],
+        "keywords": ["plan", "future", "campaign", "going", "to do"],
         "messages": [
             "I try to learn from the past, but I plan for the future by focusing exclusively on the present."
             + "That's where the fun is.",
@@ -113,36 +113,36 @@ module.exports = [
         "keywords": ["obama"],
         "messages": [
             "He may have one but there's something on that, maybe religion, maybe it says he is a Muslim. "
-            +"I don't know. Maybe he doesn't want that. Or he may not have one. I will tell you this: "
-            +"if he wasn't born in this country, it's one of the great scams of all time.",
+            + "I don't know. Maybe he doesn't want that. Or he may not have one. I will tell you this: "
+            + "if he wasn't born in this country, it's one of the great scams of all time.",
             "An 'extremely credible source' has called my office and told me that Barack Obama's birth "
-            +"certificate is a fraud."
+            + "certificate is a fraud."
         ]
     },
     {
         "keywords": ["oil", "price"],
-        "messages":[
+        "messages": [
             "We have nobody in Washington that sits back and said, you're not going to raise that fucking price."
         ]
     },
     {
-        "keywords":["muammar", "gadaffi"],
-        "messages":[
+        "keywords": ["muammar", "gadaffi"],
+        "messages": [
             "I dealt with Gaddafi. I rented him a piece of land. He paid me more for "
-            +"one night than the land was worth for two years, and then I didn't let him use the land. "+
+            + "one night than the land was worth for two years, and then I didn't let him use the land. "+
             "That's what we should be doing. I don't want to use the word 'screwed,'' but I screwed him. "
-            +"That's what we should be doing."
+            + "That's what we should be doing."
         ]
     },
     {
         "keywords": ["rosie", "o'donell"],
-        "measured":[
+        "messages": [
             "Rosie is crude, rude, obnoxious and dumb - other than that I like her very much!"
         ]
     },
     {
         "keywords": ["bush", "george bush"],
-        "measured":[
+        "messages": [
           "You mean George Bush sends our soldiers into combat, they are severely wounded, and then he" +
           "wants $120,000 to make a boring speech to them?",
           "You can’t have Bush. The last thing we need is another Bush"
@@ -150,33 +150,33 @@ module.exports = [
     },
     {
         "keywords": ["kasich", "john kasich"],
-        "measured":[
-            "What people don’t know about Kasich- he was a managing partner of the horrendous Lehman Brothers"+
-            "when it totally destroyed the economy!",
-            "I now see John Kasich from Ohio- who is desperate to run- is using my line"+
-            "'Make America Great Again'. Typical pol- no imagination!"
+        "messages":[
+            "What people don’t know about Kasich- he was a managing partner of the horrendous Lehman Brothers"
+            + " when it totally destroyed the economy!",
+            "I now see John Kasich from Ohio- who is desperate to run- is using my line"
+            + " 'Make America Great Again'. Typical pol- no imagination!"
         ]
     },
     {
-        "keywords": ["republican", "republican party", "nominee", "candidates"],
-        "measured":[
+        "keywords": ["republican", "republican party", "nominee", "candidate"],
+        "messages":[
             "I’m talking about a lot of leverage. I want to win and we will win.",
-            "I can't say that I have to respect that person who wins. If I'm"+
-            "the nominee, I pledge I will not run as an independent.",
-            "The other candidates — they went in, they didn’t know the air conditioning didn’t work. They sweated"+
-            "like dogs. They didn’t know the room was too big because they didn’t have anybody there. How are they"+
-            "gonna beat ISIS? I don’t think it’s gonna happen."
+            "I can't say that I have to respect that person who wins. If I'm"
+            + "the nominee, I pledge I will not run as an independent.",
+            "The other candidates — they went in, they didn’t know the air conditioning didn’t work. They sweated"
+            + "like dogs. They didn’t know the room was too big because they didn’t have anybody there. How are they"
+            + "gonna beat ISIS? I don’t think it’s gonna happen."
         ]
     },
     {
         "keywords": ["free trade", "trade"],
-        "measured":[
+        "messages": [
             "Free trade is terrible. Free trade can be wonderful if you have smart people. But we have stupid people.",
         ]
     },
     {
-        "keywords": ["twitter", "social media"],
-        "measured":[
+        "keywords": ["twitter", "social"],
+        "messages": [
             "My Twitter account has over 3.5 million followers. Beat that!",
         ]
     }
