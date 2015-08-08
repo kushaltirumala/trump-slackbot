@@ -7,12 +7,7 @@ module.exports = [
             "The U.S. has become a dumping ground for everybody else’s problems.",
             "And our real unemployment is anywhere from 18 to 20 percent. Don't believe "
             + "the 5.6. Don't believe it.",
-            "I will be the greatest jobs president that God ever created.",
-            "Hillary Clinton was the worst Secretary of State in the history of the "
-            + "United States. There's never been a Secretary of State so bad as Hillary. "
-            + "The world blew up around us. We lost everything, including all relationships. "
-            + "There wasn't one good thing that came out of that administration or her being "
-            + "Secretary of State."
+            "I will be the greatest jobs president that God ever created."
         ]
     },
     {
@@ -187,7 +182,19 @@ module.exports = [
         "messages": [
             "Sometimes by losing a battle you find a new way to win the war."
         ]
+    },
+    {
+        "keywords": ["hillary", "clinton"],
+        "messages": [
+            "Hillary Clinton was the worst Secretary of State in the history of the "
+            + "United States. There's never been a Secretary of State so bad as Hillary. "
+            + "The world blew up around us. We lost everything, including all relationships. "
+            + "There wasn't one good thing that came out of that administration or her being "
+            + "Secretary of State."
+        ]
     }
 
 ];
+
+
 
