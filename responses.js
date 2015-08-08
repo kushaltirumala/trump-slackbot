@@ -142,9 +142,6 @@ module.exports = [
             "Rosie is crude, rude, obnoxious and dumb - other than that I like her very much!"
         ]
     },
-<<<<<<< HEAD
-];
-=======
     {
         "keywords": ["bush", "george bush"],
         "messages": [
@@ -184,6 +181,13 @@ module.exports = [
         "messages": [
             "My Twitter account has over 3.5 million followers. Beat that!",
         ]
+    },
+    {
+        "keywords": ["win", "lose"],
+        "messages": [
+            "Sometimes by losing a battle you find a new way to win the war."
+        ]
     }
+
 ];
->>>>>>> origin/master
+
