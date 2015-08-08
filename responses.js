@@ -67,7 +67,9 @@ module.exports = [
             "That's one of the nice things. I mean, part of the beauty of me "
             + "is that I'm very rich. So if I need $600 million, I can put $600 " 
             + "million myself. That's a huge advantage. I must tell you, that's a " 
-            + "huge advantage over the other candidates."
+            + "huge advantage over the other candidates.",
+            "Money was never a big motivation for me, except as a way to keep score."
+            + " The real excitement is playing the game."
         ]
     },
     {
@@ -138,5 +140,5 @@ module.exports = [
         "measured":[
             "Rosie is crude, rude, obnoxious and dumb - other than that I like her very much!"
         ]
-    }
+    },
 ];
