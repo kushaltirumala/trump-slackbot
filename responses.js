@@ -195,7 +195,7 @@ module.exports = [
     },
     {
         "keywords": ["gay", "marriage"],
-        "messages": 
+        "messages": [
             "It's like in golf. A lot of people — I don't want this to sound trivial — but a lot of people are"
             +"switching to these really long putters, very unattractive. It’s weird. You see these great"
             +"players with these really long putters, because they can't sink three-footers anymore. And, I"
