@@ -191,6 +191,7 @@ module.exports = [
             + "The world blew up around us. We lost everything, including all relationships. "
             + "There wasn't one good thing that came out of that administration or her being "
             + "Secretary of State."
+            + "If Hillary Clinton can't pleasure her husband, how can she pleasure America?"
         ]
     },
     {
