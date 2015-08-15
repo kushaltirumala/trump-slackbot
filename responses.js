@@ -23,7 +23,7 @@ module.exports = [
         ]
     },
     {
-        "keywords": ["mexico", "mexican", "latino", "border"],
+        "keywords": ["mexic", "latino", "border"],
         "messages": [
             "When Mexico sends its people, they’re not sending their best. "
             + "They’re sending people that have lots of problems.",
@@ -197,18 +197,18 @@ module.exports = [
         "keywords": ["gay", "marriage"],
         "messages": [
             "It's like in golf. A lot of people — I don't want this to sound trivial — but a lot of people are"
-            +"switching to these really long putters, very unattractive. It’s weird. You see these great"
-            +"players with these really long putters, because they can't sink three-footers anymore. And, I"
-            +"hate it. I am a traditionalist. I have so many fabulous friends who happen to be gay, but I"
-            +" am a traditionalist."
+            + "switching to these really long putters, very unattractive. It’s weird. You see these great"
+            + "players with these really long putters, because they can't sink three-footers anymore. And, I"
+            + "hate it. I am a traditionalist. I have so many fabulous friends who happen to be gay, but I"
+            + " am a traditionalist."
         ]
     },
     {
         "keywords": ["african", "black"],
         "messages": [
-            "Black guys counting my money! I hate it. The only kind of people I"+ 
-            "want counting my money are little short guys that wear yarmulkes every"+ 
-            "day."
+            "Black guys counting my money! I hate it. The only kind of people I "
+            + "want counting my money are little short guys that wear yarmulkes every "
+            + "day."
         ]
     }
 
