@@ -89,7 +89,7 @@ module.exports = [
         ]
     },
     {
-        "keywords": ["mccain", "john", "veterans", "army", "war", "hero"],
+        "keywords": ["mccain", "john", "veterans", "army", "hero"],
         "messages": [
             "I'm very disappointed in John McCain because the vets are horribly treated "
             + "in this country. I'm fighting for the vets. I've done a lot for the vets.",
@@ -178,7 +178,7 @@ module.exports = [
         ]
     },
     {
-        "keywords": ["win", "lose"],
+        "keywords": ["win", "lose", "war", "battle"],
         "messages": [
             "Sometimes by losing a battle you find a new way to win the war."
         ]
