@@ -65,6 +65,7 @@ module.exports = [
             + "huge advantage over the other candidates.",
             "Money was never a big motivation for me, except as a way to keep score."
             + " The real excitement is playing the game."
+            + "I'm a self made man. Except for the 100 million my father gave me."
         ]
     },
     {
