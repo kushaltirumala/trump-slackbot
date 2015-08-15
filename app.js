@@ -46,8 +46,6 @@ function goTrump(teamName, channelID) {
     console.log("Listening for new messages...");
     ws.on('message', function(data) {
         var event = JSON.parse(data);
-        // debug
-        // console.log(JSON.stringify(event));
         if(event.type === "message" && event.user !== slackID) {
             ws.send(JSON.stringify({
                 "id": counter,
