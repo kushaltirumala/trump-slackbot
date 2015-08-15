@@ -11,7 +11,7 @@ module.exports = [
         ]
     },
     {
-        "keywords": ["debate", "republican debate", "gop", "presidential debate"],
+        "keywords": ["debate", "republican debate", "gop", "presidential"],
         "messages": [
             "I don’t mind having a big, beautiful door on that wall — so people can come into this country [legally]",
             "I don’t frankly have time for total political correctness. "
@@ -138,7 +138,7 @@ module.exports = [
         ]
     },
     {
-        "keywords": ["bush", "george bush"],
+        "keywords": ["bush", "george"],
         "messages": [
           "You mean George Bush sends our soldiers into combat, they are severely wounded, and then he" +
           "wants $120,000 to make a boring speech to them?",
@@ -204,7 +204,7 @@ module.exports = [
         ]
     },
     {
-        "keywords": ["african"],
+        "keywords": ["african", "black"],
         "messages": [
             "Black guys counting my money! I hate it. The only kind of people I"+ 
             "want counting my money are little short guys that wear yarmulkes every"+ 
