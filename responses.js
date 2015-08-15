@@ -202,6 +202,14 @@ module.exports = [
             +"hate it. I am a traditionalist. I have so many fabulous friends who happen to be gay, but I"
             +" am a traditionalist."
         ]
+    },
+    {
+        "keywords": ["african"],
+        "messages": [
+            "Black guys counting my money! I hate it. The only kind of people I"+ 
+            "want counting my money are little short guys that wear yarmulkes every"+ 
+            "day."
+        ]
     }
 
 ];
