@@ -210,8 +210,13 @@ module.exports = [
             + "want counting my money are little short guys that wear yarmulkes every "
             + "day."
         ]
+    },
+    {
+        "keywords": ["luck"],
+        "messages": [
+            "Everything in life is luck."
+        ]
     }
-
 ];
 
 
