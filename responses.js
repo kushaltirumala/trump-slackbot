@@ -65,6 +65,7 @@ module.exports = [
             + "huge advantage over the other candidates.",
             "Money was never a big motivation for me, except as a way to keep score."
             + " The real excitement is playing the game."
+            + "I'm a self made man. Except for the 100 million my father gave me."
         ]
     },
     {
@@ -191,6 +192,7 @@ module.exports = [
             + "The world blew up around us. We lost everything, including all relationships. "
             + "There wasn't one good thing that came out of that administration or her being "
             + "Secretary of State."
+            + "If Hillary Clinton can't pleasure her husband, how can she pleasure America?"
         ]
     },
     {
