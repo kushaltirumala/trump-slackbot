@@ -213,6 +213,20 @@ module.exports = [
             + "day."
         ]
     }
+    {
+        "keywords": ["Megan", "Kelly", "Fox News Reporter", "Megan Kelley"],
+        "messages": [
+            "You could see there was blood coming out of her eyes. Blood coming out of her wherever."
+            + "she doesn't ask the easy questions so she's a slut. "
+            + "She has a history of supporting establishment losers in failed "
+            + "campaigns so it is an honor to be uninvited from his event."
+            + "I said nothing wrong."
+            + "Hey, I went to the Wharton school of finance, the toughest place to get into"
+            + "I was a great student. I don't talk that way."
+            + "We need energy and enthusiasm, and this political correctness is absolutely killing us as a country."
+
+        ]
+    }
 
 ];
 
