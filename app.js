@@ -14,6 +14,19 @@ var r = require('./responses');
 var counter = 1;
 var ws, slackID;
 
+https.get("https://slack.com/api/channels.create?token=" 
++ SLACK_TOKEN + "&name=trump", function(res) {
+    var data = "";
+    res.on('data', function(chunk) {
+        data += chunk;
+    }).on('error', function(err) {
+        console.log("Failed to create #trump channel. Verify "
+            + "that you added your API key.");
+    }).on('end', function() {
+        console.log(data);
+    });
+});
+
 https.get("https://slack.com/api/rtm.start?token=" + SLACK_TOKEN, function(res) {
     console.log("Connecting to Slack API...");
     var data = "";
@@ -32,6 +45,8 @@ https.get("https://slack.com/api/rtm.start?token=" + SLACK_TOKEN, function(res) 
         });
     })
 });
+
+
 
 function goTrump(teamName, channelID) {
     console.log("Donald Trump has joined " + teamName + "!");
