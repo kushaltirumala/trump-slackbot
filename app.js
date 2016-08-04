@@ -38,7 +38,7 @@ https.get("https://slack.com/api/rtm.start?token=" + SLACK_TOKEN, function(res) 
     }).on('end', function() {
         var rtm = JSON.parse(data);
         ws = new _ws(rtm.url);
-        slackId = rtm.self.id;
+        slackID = rtm.self.id;
         console.log("Logging into " + rtm.team.name + "'s Slack...");
         ws.on('open', function() {
             goTrump(rtm.team.name, rtm.team.prefs.default_channels[0]);
@@ -65,7 +65,7 @@ function goTrump(teamName, channelID) {
             ws.send(JSON.stringify({
                 "id": counter,
                 "type": "message",
-                "channel": channelID,
+                "channel": event.channel,
                 "text": getResponse(event.text)
             }))
         }
